@@ -1,5 +1,7 @@
 # Probability(of boundary) based edge detection
 
+![Original image](/Phase1/BSDS500/Images/8.jpg)
+
 ### Filter banks
 
 #### Oriented Derivative of Gaussian
@@ -37,5 +39,7 @@
 #### Canny
 ![Canny](/media/Canny_8.jpg)
 
-### PB-Lite
+### Final PB-Lite Output
 ![PB-Lite](/media/PbLite_8.jpg)
+
+For more details refer to the report.

@@ -1,5 +1,4 @@
-# rbe549-alohomora
-Probability(of boundary) based edge detection
+# Probability(of boundary) based edge detection
 
 ### Filter banks
 
